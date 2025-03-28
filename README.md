@@ -1,7 +1,7 @@
 # User Management App
 
 🚀 A simple User Management application built with **React + Vite**.  
-Live Demo: [User Management](https://user-mangement-nab7.vercel.app/users)
+Live Demo: [User Management](\https://user-mangement-nab7.vercel.app/)
 
 ## 📖 Features
 - Fetch users from an API.
