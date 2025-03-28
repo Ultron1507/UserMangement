@@ -23,7 +23,7 @@ const Login = () => {
     <div
       className="flex h-screen items-center justify-center bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: "url('/src/assets/img.gif')",
+        backgroundImage: "url('/assets/img.gif')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
